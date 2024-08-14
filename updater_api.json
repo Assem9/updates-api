@@ -1,11 +1,7 @@
 {
 "last_app_version":"1.4.6",
-"versions_links":[
-  { 
-    "1.4.6":"https://github.com/Assem9/updates-api/releases/download/v1.4.7/ropulva_updater.msix"
-  },
-   { 
+"versions_links": { 
+    "1.4.6":"https://github.com/Assem9/updates-api/releases/download/v1.4.7/ropulva_updater.msix",
     "1.0.0":"https://github.com/Assem9/desktop-updater/releases/download/test/ropulva_updater.zip"
   }
-]
 }
