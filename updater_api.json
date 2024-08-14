@@ -1,9 +1,9 @@
 {
-"last_app_version":"1.1.0",
+"last_app_version":"1.4.6",
 "versions_links":[
   {
-    "vversion" :"1.1.0",
-    "download_lnk":"https://github.com/Assem9/desktop-updater/releases/download/test/ropulva_updater.zip"
+    "vversion" :"1.4.6",
+    "download_lnk":"https://github.com/Assem9/updates-api/releases/download/v1.4.7/ropulva_updater.msix"
   },
    {
     "vversion" :"1.0.0",
