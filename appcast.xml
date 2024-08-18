@@ -7,7 +7,7 @@
         <item>
             <title>Version 1.1.0</title>
             <sparkle:releaseNotesLink>
-                 https://raw.githubusercontent.com/Assem9/updates-api/main/docs/release_notes.html
+                 https://raw.githubusercontent.com/Assem9/updates-api/main/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Aug 2024 12:00:00 +0800</pubDate>
             <enclosure url="https://github.com/Assem9/updates-api/releases/download/v1.4.7/desktop_update_test-1.0.0+1.0.0-windows-setup.exe"
