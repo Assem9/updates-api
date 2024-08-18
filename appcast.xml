@@ -11,10 +11,10 @@
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Aug 2024 12:00:00 +0800</pubDate>
             <enclosure url="https://github.com/Assem9/updates-api/releases/download/v1.4.7/desktop_update_test-1.1.0+1.1.0-windows-setup.exe"
-                sparkle:dsaSignature="MDwCHEAqemjtzLRkFDI1aBlAAO5wc8QN1pkY3E27w58CHGAg+5zVoj0bgUWoTkbI6LIIRDR3ESZSjK6yOwU="
+                sparkle:dsaSignature="MD0CHQCJ7nqa2SujZongVEyy2E6SsD2pIV4rMj3uFCxbAhw4AX3nv+qw4i8gfbXIUxOWszCmGjoW+ccXmfdD"
                 sparkle:version="1.1.0"
                 sparkle:os="windows"
-                length="0"
+                length="10,056,523"
                 type="application/octet-stream" />
         </item>
     </channel>
