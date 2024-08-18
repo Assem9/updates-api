@@ -1,0 +1,4 @@
+Version 1.4.7 Release Notes
+- Here are the improvements and bug fixes:
+  1. Feature 1 added
+  2. Bug 2 fixed
