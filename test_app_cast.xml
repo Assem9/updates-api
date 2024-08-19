@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>auto_updater_example</title>
+        <description>Most recent updates to auto_updater_example</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.3.0</title>
+            <sparkle:releaseNotesLink>
+                 https://raw.githubusercontent.com/Assem9/updates-api/main/release_notes.txt
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 19 Aug 2024 12:00:00 +0800</pubDate>
+            <enclosure url="https://github.com/Assem9/updates-api/releases/download/v1.4.7/desktop_update_test.msix"
+                sparkle:dsaSignature="MDwCHA1lVk3UIxzn6lRzP97jQ2gJF7+XSLiHqFW9uJUCHBY+vM8e7tTrINA9xyTU9kBI/7Z6d+BGuvb9nsA="
+                sparkle:version="1.3.0"
+                sparkle:os="windows"
+                length="13,795,259"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
