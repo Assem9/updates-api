@@ -5,14 +5,14 @@
         <description>Most recent updates to Sendout Pro</description>
         <language>en</language>
         <item>
-            <title>Version 1.3.0</title>
+            <title>Version 1.4.0</title>
             <sparkle:releaseNotesLink>
                  https://raw.githubusercontent.com/Assem9/updates-api/main/release_notes.txt
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 19 Aug 2024 12:00:00 +0800</pubDate>
             <enclosure url="https://github.com/Assem9/updates-api/releases/download/v1.4.7/sendoutpro.msix"
                 sparkle:dsaSignature="MDwCHFtEAN6x2TBjteuFfKsBhYBEMPqgvHN0dDSfRNoCHCV8gOayHJwzoMiw7WsAxc1oviq307f+1HduhdE="
-                sparkle:version="1.3.0"
+                sparkle:version="1.4.0"
                 sparkle:os="windows"
                 length="21,066,850"
                 type="application/octet-stream" />
