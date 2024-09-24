@@ -1,1 +1,21 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title> Sendout Pro Admin</title>
+        <description>Most recent updates to Sendout Pro Admin</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.5.1</title>
+            <sparkle:releaseNotesLink>
+                 https://raw.githubusercontent.com/Assem9/updates-api/main/sop_admin_release_notes.txt
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 24 Sep 2024 21:00:00 +0800</pubDate>
+            <enclosure url="https://github.com/Assem9/updates-api/releases/download/1.5.1/SOPAdmin.exe"
+                sparkle:dsaSignature="MD0CHHu5DX3OvOaFJjL1Wyo5iaixew5ADgd6+LIwHE0CHQCyu/l6CAUFYndA2Ll5hcBKHdxXs/QvOKxUetEl"
+                sparkle:version="1.5.1"
+                sparkle:os="windows"
+                length="13,765,707"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
