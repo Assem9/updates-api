@@ -10,8 +10,8 @@
                  https://raw.githubusercontent.com/Assem9/updates-api/main/sop_admin_release_notes.txt
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 13 Oct 2024 13:00:00 +0800</pubDate>
-            <enclosure url="https://github.com/Assem9/updates-api/releases/download/1.5.2/SOP-Admin-setup.1.5.2.exe"
-                sparkle:dsaSignature="MD0CHHu5DX3OvOaFJjL1Wyo5iaixew5ADgd6+LIwHE0CHQCyu/l6CAUFYndA2Ll5hcBKHdxXs/QvOKxUetEl"
+            <enclosure url="https://github.com/Assem9/updates-api/releases/download/1.5.2/SOPAdmin.exe"
+                sparkle:dsaSignature="MD4CHQC1axrdBvDwujmFdDB+NrYNhyTbp5CWHQNJh16/Ah0Ao16vVBjq74EKY7ZO5ydmoi83CJ/bXKhkqh+Big=="
                 sparkle:version="1.5.2"
                 sparkle:os="windows"
                 length="13,780,843"
