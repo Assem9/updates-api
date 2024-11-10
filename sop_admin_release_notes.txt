@@ -1,2 +1,4 @@
-1- admin search workspace
-2- user can add profile link to workspace
+Version 1.5.3 Release Notes
+- Here are the improvements and bug fixes:
+  - All orders page (table, search)
+  - extract excel for all orders in certain range
