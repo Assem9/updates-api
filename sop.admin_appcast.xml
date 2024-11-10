@@ -11,10 +11,10 @@
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 11 Nov 2024 19:00:00 +0800</pubDate>
             <enclosure url="https://github.com/Assem9/updates-api/releases/download/1.5.3/SOPAdmin.exe"
-                sparkle:dsaSignature="MDwCHHixwOlRVCqXbaw/Fc58C+GCc8Mg+2xL8Q57HOYCHHc/E2wq16ycvF42epRkmx7/M36x4QM6F5Otvzs="
+                sparkle:dsaSignature="MD4CHQC/c6PFbVOPxiD4x9Gi2GVckZEmA2qvxVsHiht5Ah0A2BvIwIgqu3M8+U9pInnctgzg9wbCLUiReHiW2w=="
                 sparkle:version="1.5.3"
                 sparkle:os="windows"
-                length="13,454,158"
+                length="13,454,261"
                 type="application/octet-stream" />
         </item>
     </channel>
