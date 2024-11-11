@@ -1,4 +1,4 @@
-Version 1.5.3 Release Notes
+Version 1.5.4 Release Notes
 - Here are the improvements and bug fixes:
-  - All orders page (table, search)
-  - extract excel for all orders in certain range
+  - Normal users page
+  - Export - search users
