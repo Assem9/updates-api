@@ -5,16 +5,16 @@
         <description>Most recent updates to Sendout Pro Admin</description>
         <language>en</language>
         <item>
-            <title>Version 1.5.3</title>
+            <title>Version 1.5.4</title>
             <sparkle:releaseNotesLink>
                  https://raw.githubusercontent.com/Assem9/updates-api/main/sop_admin_release_notes.txt
             </sparkle:releaseNotesLink>
-            <pubDate>Sun, 11 Nov 2024 19:00:00 +0800</pubDate>
-            <enclosure url="https://github.com/Assem9/updates-api/releases/download/1.5.3/SOPAdmin.exe"
-                sparkle:dsaSignature="MD4CHQC/c6PFbVOPxiD4x9Gi2GVckZEmA2qvxVsHiht5Ah0A2BvIwIgqu3M8+U9pInnctgzg9wbCLUiReHiW2w=="
-                sparkle:version="1.5.3"
+            <pubDate>Sun, 11 Nov 2024 21:00:00 +0800</pubDate>
+            <enclosure url="https://github.com/Assem9/updates-api/releases/download/1.5.4/SOPAdmin.exe"
+                sparkle:dsaSignature="MD0CHFranu76qVmq+3Epz/c2A+4hEEwDxssVMGMWjG8CHQCO6myxJlHtb1gIWsooEtpa1Ylou/blAO3xGEDK"
+                sparkle:version="1.5.4"
                 sparkle:os="windows"
-                length="13,454,261"
+                length="13,451,591"
                 type="application/octet-stream" />
         </item>
     </channel>
