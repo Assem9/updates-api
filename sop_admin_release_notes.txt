@@ -1,4 +1,4 @@
-Version 1.5.4 Release Notes
-- Here are the improvements and bug fixes:
-  - Normal users page
-  - Export - search users
+Version 1.5.5 Release Notes
+ Improvements:
+  - Adding branches to pricelist is now simpler and more intuitive than ever. 🌟
+  - Improved UI & Search: Enjoy a sleeker interface and an optimized search field for a smoother user experience. 🔍✨
