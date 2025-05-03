@@ -10,7 +10,7 @@
                  https://raw.githubusercontent.com/Assem9/updates-api/main/release_notes.txt
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 3 may 2025 13:00:00 +0800</pubDate>
-            <enclosure url="https://github.com/Assem9/updates-api/releases/download/1.4.2/SOPClient.exe"
+            <enclosure url="https://github.com/Assem9/updates-api/releases/download/1.4.2/sendoutpro_1.4.2.exe"
                 sparkle:dsaSignature="MDwCHED3RJmEVz/wL8qmZpwfxp79uTTdfNYWopzkZmcCHGLd2evDjOX23MbE1bfnSjNypU9qmYHvqmumrLY="
                 sparkle:version="1.4.2"
                 sparkle:os="windows"
